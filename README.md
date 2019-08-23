@@ -76,3 +76,4 @@
 3. Add a command line argument for the parallel runner so that we can run it with specific tags:
    - Quick way: https://code-maven.com/argv-the-command-line-arguments-in-ruby)
    - Advanced way: https://ruby-doc.org/stdlib-2.5.3/libdoc/optparse/rdoc/OptionParser.html (don't forget to add `require optparse`)
+# LastTaskMobileAuto
